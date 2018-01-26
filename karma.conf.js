@@ -5,8 +5,8 @@ module.exports = function (config) {
     basePath: '',
     frameworks: ['jasmine'],
     files: [
-      'bower_components/moment/moment.js',
-      'bower_components/moment-timezone/builds/moment-timezone-with-data.js',
+      'node_modules/moment/moment.js',
+      'node_modules/moment-timezone/builds/moment-timezone-with-data.js',
       'moment-recur.js',
       'tests/spec/*.js',
     ],
