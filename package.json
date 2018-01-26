@@ -1,11 +1,11 @@
 {
-  "name": "moment-recur",
+  "name": "@hitask/moment-recur",
   "version": "1.0.7",
   "description": "A momentjs plugin for matching and generating recurring dates.",
   "main": "moment-recur.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/c-trimm/moment-recur.git"
+    "url": "git@github.com:HiTask/moment-recur.git"
   },
   "keywords": [
     "momentjs",
